@@ -1,14 +1,20 @@
 ﻿using BestCalculator;
+using System.Reflection.Metadata;
 
 Console.WriteLine("******************* Calculator ****************");
 
-
-Calculations calculations = new Calculations();
-while (true)
+string userInput = ""; 
+while (userInput != "no")
 {
+
+
+
+    Calculations calculations = new Calculations();
+
     Console.WriteLine("Enter two numbers");
     double num1 = Convert.ToDouble(Console.ReadLine());
     double num2 = Convert.ToDouble(Console.ReadLine());
+  
 
     Console.WriteLine("*************************************************");
 
@@ -39,7 +45,7 @@ while (true)
             Console.WriteLine("Incorrect operation");
             break;
     }
-
-    Console.ReadLine();
+    Console.WriteLine("Do you want to continue: (Yes/No)");
+    userInput = Console.ReadLine().ToLower();
 
 }
