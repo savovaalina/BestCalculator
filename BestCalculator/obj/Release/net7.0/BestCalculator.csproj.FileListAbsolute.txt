@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\bin\Release\net7.0\BestCalculator.exe
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\bin\Release\net7.0\BestCalculator.deps.json
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\bin\Release\net7.0\BestCalculator.runtimeconfig.json
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\bin\Release\net7.0\BestCalculator.dll
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\bin\Release\net7.0\BestCalculator.pdb
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\BestCalculator.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\BestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\BestCalculator.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\BestCalculator.AssemblyInfo.cs
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\BestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\BestCalculator.dll
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\refint\BestCalculator.dll
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\BestCalculator.pdb
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\BestCalculator.genruntimeconfig.cache
+C:\Users\Acer\Desktop\BestCalculator\BestCalculator\BestCalculator\obj\Release\net7.0\ref\BestCalculator.dll
