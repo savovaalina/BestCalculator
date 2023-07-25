@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9V/UXcB3Bpd2tJOVQ9Pjve53rYt5UyH3UF4Rt//xUKqQuwEAmncuXI0dNysHxutpWznDS6AEhbCoZCQ8K59qOg==",
+  "dgSpecHash": "/IxdLfIlmxLDwgv4HOWHN2vuGvazspa8AYr0y2L5WHrtFZT2fERgbXQL109UZrdP+BvScCPwnmnx33+QPk90fw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\Desktop\\BestCalculator\\BestCalculator\\BestCalculator\\BestCalculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\nlog\\5.2.2\\nlog.5.2.2.nupkg.sha512"
+  ],
   "logs": []
 }

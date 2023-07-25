@@ -7,6 +7,13 @@ string userInput = "";
 while (userInput != "no")
 {
 
+    try
+    {
+        
+    
+
+   
+
 
 
     Calculations calculations = new Calculations();
@@ -48,4 +55,12 @@ while (userInput != "no")
     Console.WriteLine("Do you want to continue: (Yes/No)");
     userInput = Console.ReadLine().ToLower();
 
+
+}
+ catch (Exception ex)
+    {
+        //Console.WriteLine($"Exception: {ex.Message}");
+        Console.WriteLine("Error: Incorrect format");
+    
+}
 }
